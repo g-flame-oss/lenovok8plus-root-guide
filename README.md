@@ -13,6 +13,7 @@ This guide will walk you through the process of rooting your **Lenovo K8 Plus**.
    - [Unlock Bootloader](#unlock-bootloader)
    - [Install TWRP Recovery](#install-twrp-recovery)
    - [Root Using Magisk](#root-using-magisk)
+   - [GSI rom install](#GSI-rom-install)
 5. [Troubleshooting](#troubleshooting)
 6. [FAQ](#faq)
 7. [Contributing](#contributing)
@@ -178,6 +179,10 @@ If your OS is deleted or the phone is bricked, you can use the **Lenovo Recovery
 7. After the installation is complete, tap on **Reboot System**. Your device will reboot back into Android.
 
 8. Once booted up, you should see the **Magisk** app installed. Open it, and complete the setup to ensure full root access.
+
+## GSI rom install
+
+> coming soon ! the files are there go ahaed and try it !
 
 ## Troubleshooting
 
