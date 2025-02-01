@@ -1,52 +1,25 @@
 # Lenovo K8 Plus Root Guide
 
+![Rooting Guide](https://img.shields.io/badge/Rooting%20Guide-Lenovo%20K8%20Plus-blue)
+![Android Version](https://img.shields.io/badge/Android%20Version-7.1.1%20Nougat-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This guide will walk you through the process of rooting your **Lenovo K8 Plus**. Make sure you follow every step carefully to avoid any issues. Rooting will give you full access to your device and allow for further customization, but keep in mind that it **voids the warranty**.
 
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Pre-Requisites](#pre-requisites)
-3. [Backup Your Data](#backup-your-data)
-4. [Rooting Instructions](#rooting-instructions)
-   - [Enable Developer Options and USB Debugging](#enable-developer-options-and-usb-debugging)
-   - [Install ADB on Your PC](#install-adb-on-your-pc)
-   - [Unlock Bootloader](#unlock-bootloader)
-   - [Install TWRP Recovery](#install-twrp-recovery)
-   - [Root Using Magisk](#root-using-magisk)
-   - [GSI rom install](#GSI-rom-install)
-5. [Troubleshooting](#troubleshooting)
-6. [FAQ](#faq)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Credits](#credits)
+2. [Rooting Instructions](#rooting-instructions)
+3. [Troubleshooting, FAQ, and Contributing](#troubleshooting-faq-and-contributing)
+4. [Credits](#credits)
+
+---
 
 ## Overview
 
-Rooting your **Lenovo K8 Plus** will give you full control over your device. This includes removing pre-installed apps, installing custom ROMs, and gaining access to root-only features. The process requires unlocking the bootloader, installing TWRP, and using **Magisk** to root the device. Please ensure that you back up your data and follow the steps carefully.
+Rooting your **Lenovo K8 Plus** will give you full control over your device. This includes removing pre-installed apps, installing custom ROMs, and gaining access to root-only features. The process requires unlocking the bootloader, installing **TWRP**, and using **Magisk** to root the device. Please ensure that you back up your data and follow the steps carefully.
 
-## Pre-Requisites
-
-Before starting, ensure that you have the following:
-
-- **Lenovo K8 Plus** with at least 50% battery.
-- A **PC (Windows, Linux, or macOS)**.
-- USB cable to connect your phone to your PC.
-- **[ADB drivers]()** installed on your PC.
-- USB Debugging enabled on your device. Follow the steps below to enable it.
-- **TWRP** and **Magisk.zip** files downloaded on your device.
-
-### Required Downloads:
-
-- **[TWRP for Lenovo K8 Plus]()**
-- **[Magisk.zip]()**
-- **[ADB and Fastboot tools]()**
-
-## Backup Your Data
-
-Before you begin, it's highly recommended to back up all your important data. Rooting your phone can result in data loss, so it’s essential to make sure you’ve saved everything important.
-
-- **Google Backup**: Use **Google Drive**to back up your contacts, app data, and settings.
-- **TWRP Backup**: You can also perform a full using TWRP to back up the entire system image.
+---
 
 ## Rooting Instructions
 
@@ -64,9 +37,9 @@ First, enable Developer Options on your Lenovo K8 Plus:
 
 Now you need to install **ADB** (Android Debug Bridge) on your PC:
 
-1. Download the **[ADB and Fastboot tools]()**.
+1. Download the **[ADB and Fastboot tools](https://developer.android.com/tools/releases/platform-tools)**.
 2. Extract the files and install them on your computer.
-3. Once installed, you’ll use ADB to interact with your phone via command line.
+3. Once installed, you’ll use ADB to interact with your phone via the command line.
 
 ### 3. Unlock Bootloader
 
@@ -82,12 +55,12 @@ Now, unlock the bootloader of your Lenovo K8 Plus. **Note:** Unlocking the bootl
    adb devices
    ```
 
-   You should see an output like this:
+You should see an output like this:
 
-   ```
-   List of devices attached
-   xxxxxxxxxxxxxxxx device
-   ```
+```
+List of devices attached
+xxxxxxxxxxxxxxxx device
+```
 
 6. If you see the output above, type the following to reboot your phone into fastboot mode:
 
@@ -180,43 +153,52 @@ If your OS is deleted or the phone is bricked, you can use the **Lenovo Recovery
 
 8. Once booted up, you should see the **Magisk** app installed. Open it, and complete the setup to ensure full root access.
 
-## GSI rom install
+### 6. GSI ROM Install
 
-> coming soon ! the files are there go ahaed and try it !
+> Coming soon! The files are available—go ahead and try it! **[FILE](https://androidfilehost.com/?fid=8889791610682874881)**
 
-## Troubleshooting
+---
 
-If you encounter any issues during the process, here are some common problems and solutions:
+## Troubleshooting, FAQ, and Contributing
 
-### Problem: Phone doesn't reboot into TWRP
+### Common Issues and Solutions:
 
-- **Solution**: Make sure you’re following the steps correctly to enter recovery mode. If needed, try using the **ADB reboot recovery** command again.
+- **Phone doesn’t reboot into TWRP:** Ensure that you’re following the steps correctly and try using the **ADB reboot recovery** command again.
+- **Magisk not showing up:** Reboot your phone into TWRP and reinstall Magisk.
+- **USB Debugging not working:** Ensure proper drivers are installed and USB debugging is enabled. Restart both your phone and PC if necessary.
 
-### Problem: Magisk not showing up
+### FAQ:
 
-- **Solution**: Reboot your phone into TWRP and reinstall Magisk.
+- **Will rooting void my warranty?**  
+  Yes, rooting voids the warranty.
+- **Can I unroot my Lenovo K8 Plus?**  
+  Yes, you can unroot by flashing the stock firmware.
 
-### Problem: USB Debugging not working
+- **Will I lose data during the rooting process?**  
+  Yes, unlocking the bootloader and rooting will erase your data. Ensure you back everything up before proceeding.
 
-- **Solution**: Ensure you have the proper drivers installed and USB debugging enabled. Restart both your phone and PC if necessary.
+### Contributing:
 
-## FAQ
+If you find any issues or improvements, feel free to contribute:
 
-**Q1: Will rooting void my warranty?**  
-A1: Yes, rooting will void your warranty. Be aware of this before proceeding.
+1. Fork this repository.
+2. Make changes.
+3. Submit a pull request.
 
-**Q2: Can I unroot my Lenovo K8 Plus?**  
-A2: Yes, you can unroot by flashing the stock firmware.
-
-**Q3: Will I lose my data during the rooting process?**  
-A3: Yes, unlocking the bootloader and rooting will erase your data. Make sure to back everything up before starting.
-
-## License
-
-This guide is licensed under the MIT License. See the **[LICENSE]()** file for more details.
+---
 
 ## Credits
 
 - **TWRP Recovery Image for Lenovo K8 Plus**: Provided by **[XDA Forum - TWRP 3.2.x for Lenovo K8 Plus](https://xdaforums.com/t/recovery-twrp-3-2-x-for-lenovo-k8-plus-marino.3838633/)**.
 - **Marino GSI LineageOS Zip**: Shared by **[XDA Forum - Marino 8.1 Treble LineageOS 15.1 ROM](https://xdaforums.com/t/discontinued-rom-unofficial-marino-8-1-treble-lineageos-15-1-rom.4083099/)**.
-- **ME G-flame** : creator of this guide !
+- **Me (G-flame)**: Creator of this guide!
+
+---
+
+## License
+
+This guide is licensed under the **MIT License**. See the **[LICENSE](LICENSE)** file for more details.
+
+```
+
+```
