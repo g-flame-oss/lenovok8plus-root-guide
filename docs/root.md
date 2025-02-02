@@ -2,16 +2,16 @@
 
 ## Intro
 
-    In this guide i will show how to root Lenovo K8 plus using magisk and TWRP.
+In this guide i will show how to root Lenovo K8 plus using magisk and TWRP.
 
 ## Perquisites
 
-    - A pc preferably Windows or Linux
-    - A internet connection
-    - A lenovo k8 plus
-    - A qualified USB cable
-    - A [files](PLACEHOLDER)
-    - And patience
+- A pc preferably Windows or Linux
+- A internet connection
+- A lenovo k8 plus
+- A qualified USB cable
+- A [files](PLACEHOLDER)
+- And patience
 
 ---
 
