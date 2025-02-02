@@ -1,7 +1,7 @@
-# Lenovo K8 Plus Root Guide
+# <h3 style="text-align:center;">Lenovo K8 Plus Root Guide</h3>
 
-![Rooting Guide](https://img.shields.io/badge/Rooting%20Guide-Lenovo%20K8%20Plus-green)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+---
+ ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 This guide will walk you through the process of rooting your **Lenovo K8 Plus**. Make sure you follow every step carefully to avoid any issues. Rooting will give you full access to your device and allow for further customization, but keep in mind that it **voids the warranty**.
 
@@ -20,9 +20,19 @@ Rooting your **Lenovo K8 Plus** will give you full control over your device. Thi
 
 ---
 
-## Rooting Instructions
+## Rooting instructions
 
-### 1. Enable Developer Options and USB Debugging
+> [!WARNING]
+> **I am not responsible for bricked devices or lost data PROCEED only if YOU KNOW WHAT YOU ARE DOING !!!**
+
+- click the arrow to reveal the instructions to root!
+---
+<details><summary>----------------------->ROOTING INSTRUCTIONS<-----------------------</summary>
+
+   ---
+
+   
+   ### 1. Enable Developer Options and USB Debugging
 
 First, enable Developer Options on your Lenovo K8 Plus:
 
@@ -152,9 +162,14 @@ If your OS is deleted or the phone is bricked, you can use the **Lenovo Recovery
 
 8. Once booted up, you should see the **Magisk** app installed. Open it, and complete the setup to ensure full root access.
 
-### 6. GSI ROM Install
+
+
+</details>
+
+###  GSI ROM Install
 
 > Coming soon! The files are available—go ahead and try it! **[FILE](https://androidfilehost.com/?fid=8889791610682874881)**
+
 
 ---
 
@@ -167,7 +182,7 @@ If your OS is deleted or the phone is bricked, you can use the **Lenovo Recovery
 - **USB Debugging not working:** Ensure proper drivers are installed and USB debugging is enabled. Restart both your phone and PC if necessary.
 
 ### FAQ:
-
+<details><summary>Common Questions</summary>
 - **Will rooting void my warranty?**  
   Yes, rooting voids the warranty.
 - **Can I unroot my Lenovo K8 Plus?**  
@@ -175,29 +190,20 @@ If your OS is deleted or the phone is bricked, you can use the **Lenovo Recovery
 
 - **Will I lose data during the rooting process?**  
   Yes, unlocking the bootloader and rooting will erase your data. Ensure you back everything up before proceeding.
-
-### Contributing:
-
-If you find any issues or improvements, feel free to contribute:
-
-1. Fork this repository.
-2. Make changes.
-3. Submit a pull request.
+</details>
 
 ---
-
+---
 ## Credits
 
-- **TWRP Recovery Image for Lenovo K8 Plus**: Provided by **[XDA Forum - TWRP 3.2.x for Lenovo K8 Plus](https://xdaforums.com/t/recovery-twrp-3-2-x-for-lenovo-k8-plus-marino.3838633/)**.
-- **Marino GSI LineageOS Zip**: Shared by **[XDA Forum - Marino 8.1 Treble LineageOS 15.1 ROM](https://xdaforums.com/t/discontinued-rom-unofficial-marino-8-1-treble-lineageos-15-1-rom.4083099/)**.
-- **Me (G-flame)**: Creator of this guide!
+> **TWRP Recovery Image for Lenovo K8 Plus**: Provided by **[XDA Forum - TWRP 3.2.x for Lenovo K8 Plus](https://xdaforums.com/t/recovery-twrp-3-2-x-for-lenovo-k8-plus-marino.3838633/)**.
+> **Marino GSI LineageOS Zip**: Shared by **[XDA Forum - Marino 8.1 Treble LineageOS 15.1 ROM](https://xdaforums.com/t/discontinued-rom-unofficial-marino-8-1-treble-lineageos-15-1-rom.4083099/)**.
+> **Me (G-flame)**: Creator of this guide!
 
 ---
 
 ## License
 
-This guide is licensed under the **MIT License**. See the **[LICENSE](LICENSE)** file for more details.
+This guide is NOT licensed under **ANYTHING**. See dose a guide really need one ?.
 
-```
 
-```
