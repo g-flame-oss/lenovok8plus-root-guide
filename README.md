@@ -1,8 +1,7 @@
 # Lenovo K8 Plus Root Guide
 
-![Rooting Guide](https://img.shields.io/badge/Rooting%20Guide-Lenovo%20K8%20Plus-blue)
-![Android Version](https://img.shields.io/badge/Android%20Version-7.1.1%20Nougat-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Rooting Guide](https://img.shields.io/badge/Rooting%20Guide-Lenovo%20K8%20Plus-green)
+![Android Version](https://img.shields.io/badge/Android%20Version-8.0.0%20Oreo-black)
 
 This guide will walk you through the process of rooting your **Lenovo K8 Plus**. Make sure you follow every step carefully to avoid any issues. Rooting will give you full access to your device and allow for further customization, but keep in mind that it **voids the warranty**.
 
