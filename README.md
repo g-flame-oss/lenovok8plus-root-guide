@@ -32,41 +32,23 @@ The rooting process involves unlocking the bootloader, installing **TWRP** (reco
 
 > [!Caution]  
 > I am not responsible for any damage to your device or data loss. Rooting is an advanced procedure—proceed only if you are comfortable with the risks.
+
 - Use the guide to root your device
 
-
-
-
-
-
-
-
-
-
 Follow the full step-by-step guide here<p align="center">
- ---->[Rooting Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/docs/root.md)<----
+---->[Rooting Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/root.md)<----
+
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 ### GSI ROM Installation
 
-For instructions on installing a GSI ROM on your Lenovo K8 Plus, check the [GSI Installation Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/docs/gsi.md).
+For instructions on installing a GSI ROM on your Lenovo K8 Plus, check the [GSI Installation Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/gsi.md).
 
 ---
 
 <h2 align="center">Troubleshooting, FAQ, and Contributing</h2>
 
-If you encounter any issues during the rooting process, refer to the **troubleshooting** section in the guide. If you have questions or want to help improve the guide, feel free to contribute by submitting a pull request.
+If you encounter any issues during the rooting process, refer to the **[troubleshooting](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/faq.md)** section in the guide. If you have questions or want to help improve the guide, feel free to contribute by submitting a pull request.
 
 ---
 
