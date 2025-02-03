@@ -36,7 +36,7 @@ The rooting process involves unlocking the bootloader, installing **TWRP** (reco
 - Use the guide to root your device
 
 Follow the full step-by-step guide here<p align="center">
----->[Rooting Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/root.md)<----
+        ------>[Rooting Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/root.md)<------
 
 </p>
 
