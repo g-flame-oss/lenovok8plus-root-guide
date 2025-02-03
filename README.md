@@ -44,7 +44,7 @@ Follow the full step-by-step guide here<p align="center">
 
 For instructions on installing a GSI ROM on your Lenovo K8 Plus, check the 
 
-------->[GSI Installation Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/gsi.md)<-------
+-------------->[GSI Installation Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/gsi.md)<--------------
 
 ---
 
