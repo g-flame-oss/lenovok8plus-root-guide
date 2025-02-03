@@ -146,3 +146,8 @@ If your OS is deleted or the phone is bricked, you can use the **Lenovo Recovery
 7. After the installation is complete, tap on **Reboot System**. Your device will reboot back into Android.
 
 8. Once booted up, you should see the **Magisk** app installed. Open it, and complete the setup to ensure full root access.
+
+# credits
+
+[G-flame](https://github.com/g-flame)
+: The creator of the guide i made thia using my own experience with my k8+
