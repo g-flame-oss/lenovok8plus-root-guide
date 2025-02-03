@@ -22,7 +22,7 @@ Generic System Image (GSI) is a pure Android implementation that can be installe
   - Unlocked bootloader
   - TWRP recovery installed
   - Root access (Magisk)
-- [GSI Activation OS](https://androidfilehost.com/?fid=8889791610682874881)
+- [GSI Activation OS](https://ava6.androidfilehost.com/dl/rvOMSRNkVvheKyoxypWG9w/1738645536/8889791610682874881/lineage-15.1-20200415-UNOFFICIAL-marino.zip)
 - Stable internet connection
 - At least 70% battery
 
