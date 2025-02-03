@@ -126,3 +126,8 @@ Generic System Image (GSI) is a pure Android implementation that can be installe
 - [Lenovo K8 Plus XDA Forum](https://forum.xda-developers.com/)
 
 This improved guide provides clearer instructions, better organization, and essential troubleshooting information while maintaining all the critical steps from the original guide.
+
+# credits
+
+[G-flame](https://github.com/g-flame)
+: The creator of the guide i made thia using my own experience with my k8+
