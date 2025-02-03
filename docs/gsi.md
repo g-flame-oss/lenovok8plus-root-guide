@@ -1,5 +1,3 @@
-I'll restructure and improve this guide to make it clearer and more comprehensive.
-
 # Complete Guide: Installing GSI ROMs on Lenovo K8 Plus
 
 ## What is GSI?
@@ -124,8 +122,6 @@ Generic System Image (GSI) is a pure Android implementation that can be installe
 - [XDA GSI Forum](https://forum.xda-developers.com/c/google-gsis.8180/)
 - [Project Treble Documentation](https://source.android.com/docs/core/architecture/treble)
 - [Lenovo K8 Plus XDA Forum](https://forum.xda-developers.com/)
-
-This improved guide provides clearer instructions, better organization, and essential troubleshooting information while maintaining all the critical steps from the original guide.
 
 # credits
 
