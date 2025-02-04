@@ -153,4 +153,4 @@ If your OS is deleted or the phone is bricked, you can use the **Lenovo Recovery
 # credits
 
 [G-flame](https://github.com/g-flame)
-: The creator of the guide i made thia using my own experience with my k8+
+: The creator of the guide i made this using my own experience with my k8+
