@@ -2,7 +2,9 @@
 
 ### Common Issues and Solutions & faq:
 
-> [Faq](https://github.com/g-flame-oss/lenovok8plus-root-guide/docs/faq.md) > [!tip] > **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
+> [Faq](https://github.com/g-flame-oss/lenovok8plus-root-guide/docs/faq.md)
+> [!tip]
+> **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
 
 - **Phone doesn’t reboot into TWRP:** Ensure that you’re following the steps correctly and try using the **ADB reboot recovery** command again.
 - **Magisk not showing up:** Reboot your phone into TWRP and reinstall Magisk.
