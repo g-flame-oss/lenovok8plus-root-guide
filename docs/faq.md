@@ -22,3 +22,8 @@
 </details>
 
 ---
+
+# credits
+
+[G-flame](https://github.com/g-flame)
+: The creator of the guide i made thia using my own experience with my k8+

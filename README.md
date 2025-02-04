@@ -60,8 +60,7 @@ If you have questions or want to help improve the guide, feel free to contribute
 
 ---
 
-> [!tip]
-> **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
+> [!tip] > **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
 
 ---
 
@@ -69,7 +68,11 @@ If you have questions or want to help improve the guide, feel free to contribute
 
 - **TWRP Recovery Image for Lenovo K8 Plus**: Provided by [XDA Forum - TWRP 3.2.x for Lenovo K8 Plus](https://xdaforums.com/t/recovery-twrp-3-2-x-for-lenovo-k8-plus-marino.3838633/).
 - **Marino GSI LineageOS Zip**: Shared by [XDA Forum - Marino 8.1 Treble LineageOS 15.1 ROM](https://xdaforums.com/t/discontinued-rom-unofficial-marino-8-1-treble-lineageos-15-1-rom.4083099/).
-- **G-flame**: Creator of this guide.
+
+# credits
+
+[G-flame](https://github.com/g-flame)
+: The creator of the guide i made thia using my own experience with my k8+
 
 ---
 
