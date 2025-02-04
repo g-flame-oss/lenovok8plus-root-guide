@@ -36,21 +36,29 @@ The rooting process involves unlocking the bootloader, installing **TWRP** (reco
 - Use the guide to root your device
 
 Follow the full step-by-step guide here<p align="center">
-        ------>[Rooting Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/root.md)<------
+------>[Rooting Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/root.md)<------
 
 </p>
 
 ### GSI ROM Installation
 
-For instructions on installing a GSI ROM on your Lenovo K8 Plus, check the 
+For instructions on installing a GSI ROM on your Lenovo K8 Plus, check the<p align="center">
+------>[GSI Installation Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/gsi.md)<------
 
--------------->[GSI Installation Guide](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/gsi.md)<--------------
-
----
+## </p>
 
 <h2 align="center">Troubleshooting, FAQ, and Contributing</h2>
 
-If you encounter any issues during the rooting process, refer to the **[troubleshooting](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/faq.md)** section in the guide. If you have questions or want to help improve the guide, feel free to contribute by submitting a pull request.
+If you encounter any issues during the rooting process, refer to the \*\*<p align="center">
+
+------>[troubleshooting](https://github.com/g-flame-oss/lenovok8plus-root-guide/blob/main/docs/faq.md)\*\* <------
+
+</p>
+
+section in the guide. If you have questions or want to help improve the guide, feel free to contribute by submitting a pull request.
+
+> [!tip]
+> **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
 
 ---
 
