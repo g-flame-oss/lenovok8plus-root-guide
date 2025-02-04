@@ -59,7 +59,6 @@ If you have questions or want to help improve the guide, feel free to contribute
 ---
 
 > [!tip]
-
 > **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
 
 ---
