@@ -2,8 +2,6 @@
 
 ### Common Issues and Solutions & faq:
 
-> [Faq](https://github.com/g-flame-oss/lenovok8plus-root-guide/docs/faq.md)
-
 > [!tip]
 > **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
 
