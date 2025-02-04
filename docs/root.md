@@ -66,9 +66,12 @@ xxxxxxxxxxxxxxxx device
 
 7. Now unlock the bootloader by typing the following:
 
-   ```bash
-   fastboot oem unlock
-   ```
+> [!caution]
+> This will erase all data on your phone !
+
+```bash
+fastboot oem unlock
+```
 
 8. After this, your phone will reset to factory settings.
 
