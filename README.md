@@ -16,6 +16,10 @@ Welcome to the **Lenovo K8 Plus Rooting Guide**! This guide will walk you throug
 
 ---
 
+> [!tip]
+> **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
+---
+
 <h2 align="center">Overview</h2>
 
 Rooting your **Lenovo K8 Plus** allows you to:
@@ -57,11 +61,6 @@ If you encounter any issues during the rooting process, refer to the troubleshoo
 </p>
 
 If you have questions or want to help improve the guide, feel free to contribute by submitting a pull request.
-
----
-
-> [!tip]
-> **In case of bricked devices:** Use this Software [HERE](https://support.lenovo.com/us/en/downloads/ds101291-rescue-and-smart-assistant-lmsa) download it and set it up
 
 ---
 
